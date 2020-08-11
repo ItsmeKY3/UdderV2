@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     override func viewWillAppear(_ animated: Bool) {
-        //im sad view appeard :(
+        //im sad view will appear :(
     }
     
     override func viewDidDisappear(_ animated: Bool) {
